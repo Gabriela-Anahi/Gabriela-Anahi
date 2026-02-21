@@ -3,8 +3,8 @@
 
 *   🌍  I'm based in Buenos Aires, Argentina
 *   🖥️  See my portfolio at [Portafolio](http://gabriela-anahi.vercel.app/)
-*   ✉️  You can contact me at [pablo.m.ochoa@gmail.com](mailto:gabrielanahidev@gmail.com)
-*   🚀  I'm currently working on [SolarFlow project](http://haditaestampada.vercel.app/)
+*   ✉️  You can contact me at (mailto:gabrielanahidev@gmail.com)
+*   🚀  I'm currently working on (http://haditaestampada.vercel.app/)
 *   🧠  I'm learning An advanced level of React and solving optimization problems on a daily basis
 *   🤝  I'm open to collaborating on a project, whether for profit or non-profit
 
